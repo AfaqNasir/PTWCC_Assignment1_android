@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Predict Tempreture with Cricket</string>
+    <string name="usrTemp">Enter the Temp</string>
+    <string name="multiText">Do you Know that you can tell the outdoor temperature by calculating CHIRPS of cricket ? To calculate temperature just count the number of cricket chirps in 25 seconds</string>
+    <string name="btn">Calculate</string>
+    <string name="textTemp">Temperature = </string>
+    <string name="cel">°C</string>
+    <string name="error">Count the number of chirps for 25 seconds</string>
+    <string name="emptyerror">You never enter Number yet</string>
+    <string name="textview">TextView</string>
+</resources>
